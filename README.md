@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 My full name's Nguyen Dang Nha<br>👯 I'm a second year student of VietNam - Korean University of Information and Communication technology<br>🤝 I’m currently a web development, the main role in front-end development<br>🌱 I’m currently learning AI, espectially machine learning <br>💬 Contact me via instagram<br>
+🔭 My full name's Nguyen Dang Nha<br>👯
 
 ## 🌐 Socials:
 
